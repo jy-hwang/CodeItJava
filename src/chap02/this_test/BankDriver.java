@@ -1,4 +1,4 @@
-package chap02.new_test;
+package chap02.this_test;
 
 public class BankDriver {
 
